@@ -1,0 +1,29 @@
+# Unity specific files to ignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Rider & Visual Studio
+.idea/
+.vs/
+*.csproj
+*.sln
+
+# Ignore crash reports and logs
+*.pidb
+*.svd
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.ilk
+*.pdb
+*.opendb
+*.VC.db
+
+# Mac OS system files
+.DS_Store
